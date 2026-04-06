@@ -1,2 +1,2 @@
-# face-detection-opencv
-Real-time face detection using Python, OpenCV and Flask
+# face-attendance-system
+Face recognition based attendance system using Python and OpenCV.
