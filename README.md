@@ -83,3 +83,12 @@ Inside the project folder you will see files like:
 - Replace basic face recognition with more advanced deep learning–based models.
 - Add a GUI or web interface (using Tkinter or Flask) to make it easier for non-technical users.
 - Add user authentication and role-based access for administrators and teachers.[web:261][web:285]
+
+## Screenshots
+ ```
+![Capture faces - start](screenshots/capture_1.png)
+![Capture faces - more samples](screenshots/capture_2.png)
+![Training face recognition model](screenshots/train.png)
+![Recognize face and mark attendance](screenshots/recognize.png)
+![Export attendance to Excel](screenshots/export.png)
+![Attendance Excel report](screenshots/attendance_excel.png)
